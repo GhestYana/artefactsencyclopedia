@@ -1,0 +1,7 @@
+[user]
+	name = Yana
+	email = c.nazarenko.yana@student.uzhnu.edu.ua
+[core]
+	autocrlf = false
+[init]
+	defaultBranch = main
