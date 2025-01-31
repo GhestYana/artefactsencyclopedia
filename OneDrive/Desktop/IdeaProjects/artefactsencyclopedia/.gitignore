@@ -1,0 +1,85 @@
+### IntelliJ IDEA ###
+src/.idea/
+*.iml
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+
+### Eclipse ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings/
+.springBeans
+.sts4-cache
+bin/
+!**/src/main/**/bin/
+!**/src/test/**/bin/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### VS Code ###
+.vscode/
+
+### Системні файли ОС ###
+# Windows
+Thumbs.db
+desktop.ini
+AppData/
+Application Data/
+Cookies/
+Local Settings/
+My Documents/
+NetHood/
+PrintHood/
+Recent/
+SendTo/
+Start Menu/
+Templates/
+
+# macOS
+.DS_Store
+.Trashes
+._*
+.Spotlight-V100
+
+### Загальні кеші та логи ###
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+*.lock
+
+### Бінарні файли ###
+*.exe
+*.dll
+*.so
+*.dylib
+*.class
+*.jar
+*.war
+*.ear
+*.pyc
+*.pyo
+*.o
+*.obj
+*.out
+
+### Інші виключення ###
+node_modules/    # Для проєктів на JavaScript/Node.js
+target/          # Maven
+build/           # Gradle
+dist/            # Зібрані файли
+coverage/        # Звітність з покриття тестів
+.env             # Конфігураційні файли з секретами
+*.zip
+*.tar.gz
+*.rar
+*.7z
